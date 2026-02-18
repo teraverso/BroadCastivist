@@ -1,9 +1,9 @@
 ## BroadCastivit
 
-Este código é parte de uma demonstração de segurança para redes Wi-Fi públicas e é utilizado em palestras sobre segurança cibernética.
+This ESP8266 code was created for a public Wi-Fi network security demonstration and is used in cybersecurity talks.
 
-O código foi projetado para ser executado em um microcontrolador ESP8266.
+The code is designed to run on an ESP8266 microcontroller.
 
-Ele cria um ponto de acesso (AP) aberto e um servidor web que redireciona todas as solicitações para uma página informativa, alertando os usuários sobre os riscos de se conectar a redes Wi-Fi públicas sem proteção adequada. 
+It creates an open access point (AP) and a web server that redirects all requests to an informational page, alerting users to the risks of connecting to public Wi-Fi networks without adequate protection.
 
-Nenhuma autenticação é solicitada e nenhum dado é coletado. O objetivo é educar os usuários sobre a importância da segurança em redes Wi-Fi públicas.
+No authentication is required and no data is collected. The goal is to educate users about the importance of security on public Wi-Fi networks.
